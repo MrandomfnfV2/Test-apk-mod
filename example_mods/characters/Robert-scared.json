@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-90,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-11,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-94,
+				256
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-88,
+				187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robert-scared",
+	"position": [
+		250,
+		480
+	],
+	"healthicon": "icon-robert-meltdown",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		34,
+		34
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 2
+}

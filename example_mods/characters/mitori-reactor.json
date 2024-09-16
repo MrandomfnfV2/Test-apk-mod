@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				111,
+				423
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				201,
+				427
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				204,
+				423
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				263,
+				423
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				175,
+				424
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				353,
+				315
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mitori-reactor",
+	"position": [
+		300,
+		550
+	],
+	"healthicon": "icon-mitori-reactor",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		182,
+		113
+	],
+	"camera_position": [
+		-150,
+		-480
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 2
+}

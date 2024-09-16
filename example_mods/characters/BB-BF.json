@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-5,
+				81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				2,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-47,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-44,
+				114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				40
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "d-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				117
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "l-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				173
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "u-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				103
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "r-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-39,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				100
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BB-BF",
+	"position": [
+		100,
+		450
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		23,
+		149,
+		230
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4.5,
+	"scale": 2
+}

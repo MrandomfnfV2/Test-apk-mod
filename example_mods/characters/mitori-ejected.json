@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				201,
+				473
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				236,
+				473
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				478,
+				478
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				242,
+				585
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				202,
+				475
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				180
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				228
+			],
+			"anim": "mid",
+			"fps": 24,
+			"name": "mid",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mitori-ejected",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "icon-mitori",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		235,
+		0
+	],
+	"camera_position": [
+		-210,
+		-440
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 1
+}

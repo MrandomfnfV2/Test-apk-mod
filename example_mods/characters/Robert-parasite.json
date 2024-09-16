@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				672
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				348,
+				673
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				406,
+				771
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				691
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				670
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				416,
+				672
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "hurt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robert-parasite",
+	"position": [
+		250,
+		380
+	],
+	"healthicon": "icon-robert-parasite",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		34,
+		34
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 2
+}

@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				105,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				95,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				139,
+				163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				103,
+				225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-74,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				95,
+				164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"offsets": [
+				-40,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				40
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "d-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				117
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "l-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-42,
+				173
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "u-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				103
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "r-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				303,
+				187
+			],
+			"anim": "gun",
+			"fps": 24,
+			"name": "gun",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pico-crimson",
+	"position": [
+		150,
+		450
+	],
+	"healthicon": "icon-pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		204,
+		0
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 4.5,
+	"scale": 2
+}

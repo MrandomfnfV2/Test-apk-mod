@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-69,
+				313
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-32,
+				313
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				113,
+				315
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-11,
+				404
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-12,
+				314
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				353,
+				315
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mitori_LD",
+	"position": [
+		210,
+		530
+	],
+	"healthicon": "icon-mitori2",
+	"flip_x": false,
+	"healthbar_colors": [
+		85,
+		246,
+		68
+	],
+	"camera_position": [
+		0,
+		-100
+	],
+	"sing_duration": 8.09999999999999,
+	"scale": 2
+}
